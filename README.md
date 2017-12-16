@@ -20,6 +20,6 @@ Steps:
 	image example: chooseQuantity.PNG
 
 4. Display results and update MySQL.
-	This is where I had an issue. I am getting an error and my database is not taking in my variables.
+	This is where I had an issue. I am getting an error and my database is not taking in my variables. If I updated my code with actual values, it works but it is not dynamically updating based on the variables that I have added. 
 
 
